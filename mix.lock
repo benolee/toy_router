@@ -1,0 +1,9 @@
+%{"cowboyku": {:git, "https://github.com/heroku/cowboyku.git", "ca64d29abe15c1522ba77283f15de20677aa5889", [tag: "1.0.1"]},
+  "cowlib": {:git, "https://github.com/ninenines/cowlib.git", "63298e8e160031a70efff86a1acde7e7db1fcda6", [tag: "0.4.0"]},
+  "erequest_id": {:git, "https://github.com/heroku/erequest_id.git", "e24f250c119e14975eff038ac30b2f9f7d1ceefa", [tag: "0.2.1"]},
+  "midjan": {:git, "https://github.com/heroku/midjan.git", "1499e99509a07d5d3a0fbfd412cac40c64ebce0d", [tag: "1.0.0"]},
+  "quickrand": {:hex, :quickrand, "1.5.0"},
+  "ranch": {:git, "https://github.com/ninenines/ranch.git", "741bfb73ca663394ecf7a73410506d66f01985a6", [tag: "1.1.0"]},
+  "ranch_proxy_protocol": {:git, "https://github.com/heroku/ranch_proxy_protocol.git", "c2a5855068651b2447633a257a48209f05888848", [tag: "1.2.0"]},
+  "uuid": {:git, "https://github.com/okeuday/uuid.git", "24325ae6309d03897735c3a320aab6f74b189ab7", [tag: "v1.5.0.1"]},
+  "vegur": {:git, "https://github.com/heroku/vegur.git", "987d623c3d07239a3d3f4f19a2dff25e6622d32f", [branch: "master"]}}
