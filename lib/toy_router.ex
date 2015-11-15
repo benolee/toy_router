@@ -12,7 +12,7 @@ defmodule ToyRouter do
   def lookup_domain_name(_all_domains, upstream, state) do
     servers = [
       {1, {127,0,0,1}, 8081},
-      {2, {127,0,0,1}, 8081},
+      {2, {127,0,0,1}, 8082},
     ]
 
     {:ok, servers, upstream, state}
